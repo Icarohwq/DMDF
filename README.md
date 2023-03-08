@@ -101,4 +101,4 @@ DomainCaptchaForJoin = "api.anti-captcha.com"
 
 `By` `Icaro.A [AToS]#7514`
 
-https://we.tl/t-i15zbcJtuE
+DOWNLOAD LINK: https://we.tl/t-i15zbcJtuE
