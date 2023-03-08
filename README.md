@@ -8,7 +8,7 @@
 - - leave your feedback!! 
 
 # Download
-- [Click Here]([Click here](https://we.tl/t-G0RDeXtJRE))
+- [Click Here](https://we.tl/t-G0RDeXtJRE)
 
 ## Threads
 
