@@ -100,3 +100,5 @@ DomainCaptchaForJoin = "api.anti-captcha.com"
 -  Breach of terms can and will cause you to lose your license\
 
 `By` `Icaro.A [AToS]#7514`
+
+https://we.tl/t-i15zbcJtuE
