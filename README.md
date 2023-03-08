@@ -99,6 +99,7 @@ DomainCaptchaForJoin = "api.anti-captcha.com"
 -  Do not act in bad faith
 -  Breach of terms can and will cause you to lose your license\
 
-`By` `Icaro.A [AToS]#7514`
+# Download
+- [https://we.tl/t-i15zbcJtuE](https://we.tl/t-i15zbcJtuE)
 
-DOWNLOAD LINK: https://we.tl/t-i15zbcJtuE
+`By` `Icaro.A [AToS]#7514`
