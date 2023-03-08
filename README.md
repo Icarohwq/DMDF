@@ -7,6 +7,9 @@
 - - any questions can ask
 - - leave your feedback!! 
 
+# Download
+- [https://we.tl/t-i15zbcJtuE](https://we.tl/t-i15zbcJtuE)
+
 ## Threads
 
 - The threads are per server
@@ -98,8 +101,5 @@ DomainCaptchaForJoin = "api.anti-captcha.com"
 -  Do not send the program to third parties
 -  Do not act in bad faith
 -  Breach of terms can and will cause you to lose your license\
-
-# Download
-- [https://we.tl/t-i15zbcJtuE](https://we.tl/t-i15zbcJtuE)
 
 `By` `Icaro.A [AToS]#7514`
