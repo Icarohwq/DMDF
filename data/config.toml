@@ -2,17 +2,17 @@ JoinTokens = true
 TryBypassCaptcha = false  
 
 Threads = 10    
-DelayOnStart = 75  
+DelayOnStart = 10  
 SleepAfterXDM = 9  
-DelayOnMessage = 70  
+DelayOnMessage = 0  
 DelayOnRatelimit = 600  
-MaxDMOpensPerToken = 600  
+MaxDMOpensPerToken = 10000  
 
 MongoURL = "mongodb+srv://user:pass@cluster0.pyabp0c.mongodb.net/test"  
 #Oficial suporte api.anti-captcha.com, api.capsolver.com, api.capmonster.cloud  
 
-KeyCaptchaForDM = "CAI-xxxx"  
-DomainCaptchaForDM = "api.capsolver.com"  
+KeyCaptchaForDM = ""  
+DomainCaptchaForDM = ""  
   
-KeyCaptchaForJoin = "xxxxx"  
-DomainCaptchaForJoin = "api.anti-captcha.com"
+KeyCaptchaForJoin = ""  
+DomainCaptchaForJoin = ""
