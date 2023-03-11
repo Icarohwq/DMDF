@@ -25,15 +25,15 @@
 
 ## **Captcha solver**
 - Qill only be released in the **paid version**
-- don't pay captcha to send messages
+- **don't pay captcha to send messages**
 
 
 ## Captcha Services
 
 - Services with official suporte 
-- https://api.anti-captcha.com (recommended for join)
-- https://api.capsolver.com (recommended for dm)
-- https://api.capmonster.cloud (not recommended)
+- https://api.anti-captcha.com
+- https://api.capsolver.com
+- https://api.capmonster.cloud 
 
 
 ## MongoDB
@@ -103,11 +103,13 @@ DomainCaptchaForJoin = "api.anti-captcha.com"
 
 ![DMDF-MAIN](https://media.discordapp.net/attachments/1050232164383461446/1084076506193596457/image.png?width=843&height=474)
 
+## Contact
+- https://t.me/ATOS_DMDF
+- `Icaro.A [AToS]#7514`
+
 ## Terms
 
 -  Do not pass on your license to third parties
 -  Do not send the program to third parties
 -  Do not act in bad faith
--  Breach of terms can and will cause you to lose your license\
-
-`By` `Icaro.A [AToS]#7514`
+-  Breach of terms can and will cause you to lose your license
