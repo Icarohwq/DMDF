@@ -100,7 +100,7 @@ DomainCaptchaForJoin = "api.anti-captcha.com"
 2. Put targets (users ids) in data/Servers/{ServerInvite}.txt
 3. Put tokens in data/tokens.txt
 4. Start Tool
-5. [VIDEO](https://t.me/ATOS_DMDF/5)
+5. [VIDEO TUTORIAL](https://t.me/ATOS_DMDF/5)
 
 ![DMDF-MAIN](https://media.discordapp.net/attachments/1050232164383461446/1084076506193596457/image.png?width=843&height=474)
 
