@@ -3,7 +3,7 @@
 
 > For educational purposes only
 
-#To test the latest version with some improvements and integrated captcha solver, call us on telegram!!
+# To test the latest version with some improvements and integrated captcha solver, call us on telegram!!
 
 # Free Triel DMDF
 - any questions can ask
