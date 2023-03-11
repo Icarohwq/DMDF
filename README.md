@@ -3,12 +3,15 @@
 
 > For educational purposes only
 
-# TEMPORARILY FREE
+
+# DMD Free Triel
 - any questions can ask
 - leave your feedback!! 
 
+
 # Download
 - [Click here to download DMDF [v1.2]](https://we.tl/t-tcNZUyiIb1)
+
 
 ## Threads
 
@@ -20,7 +23,12 @@
 - Server Flag = A much lower DM average
 
 
-## Captcha Service
+## **Captcha solver**
+- Qill only be released in the **paid version**
+- don't pay captcha to send messages
+
+
+## Captcha Services
 
 - Services with official suporte 
 - https://api.anti-captcha.com (recommended for join)
