@@ -102,4 +102,4 @@ DomainCaptchaForJoin = "api.anti-captcha.com"
 -  Do not act in bad faith
 -  Breach of terms can and will cause you to lose your license\
 
-`@Discord Society By` `Icaro.A [AToS]#7514`
+**Discord Society By** `By` `Icaro.A [AToS]#7514`
