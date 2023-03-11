@@ -8,7 +8,7 @@
 - leave your feedback!! 
 
 # Download
-- [Click here to download](https://we.tl/t-OmlfQ615kL)
+- [Click here to download](https://we.tl/t-tcNZUyiIb1)
 
 ## Threads
 
@@ -93,7 +93,7 @@ DomainCaptchaForJoin = "api.anti-captcha.com"
 3. Put tokens in data/tokens.txt
 4. Start Tool
 
-![Captura de tela de 2023-03-05 04-03-13](https://user-images.githubusercontent.com/126829731/222946697-cbab89d2-7dad-4491-a726-e03e44af23d6.png)
+![DMDF-MAIN](https://media.discordapp.net/attachments/1050232164383461446/1084076506193596457/image.png?width=843&height=474)
 
 ## Terms
 
@@ -102,4 +102,4 @@ DomainCaptchaForJoin = "api.anti-captcha.com"
 -  Do not act in bad faith
 -  Breach of terms can and will cause you to lose your license\
 
-- **Discord Society** `By` `Icaro.A [AToS]#7514`
+`By` `Icaro.A [AToS]#7514`
