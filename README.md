@@ -4,7 +4,7 @@
 > For educational purposes only
 
 
-# DMD Free Triel
+# Free Triel DMDF
 - any questions can ask
 - leave your feedback!! 
 
