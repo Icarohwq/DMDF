@@ -6,7 +6,7 @@
 
 # Buy / Download
 - **Buy** Licesence [here](https://discordsociety.sellix.io/product/640d2ced7cd1e) (after purchase put your license in "license")
-- [Click here to download DMDF [v1.6.2]](https://we.tl/t-CXYRXIp8yf)
+- [Click here to download DMDF [v1.6.1]](https://we.tl/t-q8DgpH89T3)
 
 
 ## Threads
@@ -73,7 +73,8 @@ DelayOnRatelimit = 600
 MaxDMOpensPerToken = 600  
 
 MongoURL = "mongodb+srv://user:pass@cluster0.pyabp0c.mongodb.net/test"  
-#Oficial suporte api.anti-captcha.com, api.capsolver.com, api.capmonster.cloud  
+
+#Oficial suporte dmdfsolver.atos (FOR IA SOLVER [FREE]), api.anti-captcha.com, api.capsolver.com, api.capmonster.cloud  
 
 KeyCaptchaForDM = "CAI-xxxx"  
 DomainCaptchaForDM = "api.capsolver.com"  
