@@ -37,8 +37,8 @@
 - https://account.mongodb.com/account/login (online db)
 - https://www.mongodb.com/try/download/community (download local host)
 
-- [mongodb://localhost:27017] for localhost (Recommended)
-- [mongodb+srv://user:password@cluster0.pyabp0c.mongodb.net/test] for online
+- `mongodb://localhost:27017` for localhost (Recommended)
+- `mongodb+srv://user:password@cluster0.pyabp0c.mongodb.net/test` for online
 
 
 ## Operating Mode
