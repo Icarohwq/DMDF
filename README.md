@@ -4,7 +4,7 @@
 > For educational purposes only
 
 
-# Buy and Download
+# Buy / Download
 - **Buy** Licesence [here](https://discordsociety.sellix.io/product/640d2ced7cd1e) (after purchase put your license in "license")
 - [Click here to download DMDF [v1.4]](https://we.tl/t-PhbvzVjU22)
 
