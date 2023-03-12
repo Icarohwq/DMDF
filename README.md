@@ -3,15 +3,10 @@
 
 > For educational purposes only
 
-# To test the latest version with some improvements and integrated captcha solver, call us on telegram!!
 
-# Free Triel DMDF
-- any questions can ask
-- leave your feedback!! 
-
-
-# Download
-- [Click here to download DMDF [v1.2]](https://we.tl/t-tcNZUyiIb1)
+# Download and Buy
+- **Buy** Licesence [here](https://discordsociety.sellix.io/product/640d2ced7cd1e) (after purchase put your license in "license")
+- [Click here to download DMDF [v1.4]](https://we.tl/t-PhbvzVjU22)
 
 
 ## Threads
