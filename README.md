@@ -6,7 +6,6 @@
 
 # Buy / Download
 - **Buy** Licesence [here](https://discordsociety.sellix.io/product/640d2ced7cd1e) (after purchase put your license in "license")
-- [Click here to download DMDF [v1.6.3]](https://we.tl/t-VqJ2XKkJL8)
 
 
 ## Threads
