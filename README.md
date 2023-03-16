@@ -5,7 +5,8 @@
 
 
 # Buy / Download
-- **Buy** Licesence [here](https://discordsociety.sellix.io/product/640d2ced7cd1e) (after purchase put your license in "license")
+- **Buy** Licesence https://discordsociety.sellix.io/product/640d2ced7cd1e (after purchase put your license in "license")
+- **Download** https://t.me/ATOS_DMDF
 
 
 ## Threads
