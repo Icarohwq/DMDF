@@ -1,18 +1,21 @@
 JoinTokens = true
 TryBypassCaptcha = false  
 
-Threads = 10    
-DelayOnStart = 10  
-SleepAfterXDM = 9  
-DelayOnMessage = 0  
-DelayOnRatelimit = 600  
-MaxDMOpensPerToken = 10000  
+Threads = 100
+JoinTokens = true
+DelayOnStart = 1
+SleepAfterXDM = 9
+DelayOnMessage = 5
+DelayOnRatelimit = 600
+MaxDMOpensPerToken = 2000
+MaxDMSendOnSelf = 10000
+TryBypassCaptcha = false
 
-MongoURL = "mongodb+srv://user:pass@cluster0.pyabp0c.mongodb.net/test"  
+MongoURL = "YourMongoHere"  
 #Oficial suporte api.anti-captcha.com, api.capsolver.com, api.capmonster.cloud  
 
 KeyCaptchaForDM = ""  
-DomainCaptchaForDM = ""  
+DomainCaptchaForDM = "dmdfsolver.atos"  
   
 KeyCaptchaForJoin = ""  
 DomainCaptchaForJoin = ""
