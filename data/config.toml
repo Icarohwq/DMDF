@@ -6,8 +6,8 @@ DelayOnStart = 1
 SleepAfterXDM = 9
 DelayOnMessage = 5
 DelayOnRatelimit = 600
-MaxDMOpensPerToken = 2000
-MaxDMSendOnSelf = 10000
+MaxDMOpensPerToken = 0
+MaxDMSendOnSelf = 0
 
 MongoURL = "YourMongoHere"  
 #Oficial suporte api.anti-captcha.com, api.capsolver.com, api.capmonster.cloud  
