@@ -2,7 +2,6 @@ JoinTokens = true
 TryBypassCaptcha = false  
 
 Threads = 100
-JoinTokens = true
 DelayOnStart = 1
 SleepAfterXDM = 9
 DelayOnMessage = 5
