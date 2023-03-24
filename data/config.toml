@@ -9,7 +9,7 @@ DelayOnRatelimit = 600
 MaxDMOpensPerToken = 0
 MaxDMSendOnSelf = 0
 
-MongoURL = "YourMongoHere"  
+MongoURL = "YouMongoHere"  
 #Oficial suporte api.anti-captcha.com, api.capsolver.com, api.capmonster.cloud  
 
 KeyCaptchaForDM = ""  
