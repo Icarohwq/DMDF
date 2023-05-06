@@ -62,7 +62,7 @@
 ##### EXAMPLE
 
 ```toml
-JoinTokens = trueThreds
+JoinTokens = true
 TryBypassCaptcha = false  
 
 Threads = 10    
