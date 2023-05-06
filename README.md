@@ -103,7 +103,7 @@ DomainCaptchaForJoin = "api.anti-captcha.com"
 
 ## Contact
 - https://t.me/ATOS_DMDF
-- `Icaro.A [AToS]#7514`
+- `icaro#0001`
 
 ## Terms
 
