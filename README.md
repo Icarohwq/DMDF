@@ -43,7 +43,7 @@
 
 ## Operating Mode
 
--  Start x Threds per server
+-  Start x Threads per server
 -  Join tokens in server 
 -  Start mass dm
 -  Repeats the process for all servers under [Data/Servers]
@@ -62,7 +62,7 @@
 ##### EXAMPLE
 
 ```toml
-JoinTokens = true
+JoinTokens = trueThreds
 TryBypassCaptcha = false  
 
 Threads = 10    
@@ -74,7 +74,7 @@ MaxDMOpensPerToken = 600
 
 MongoURL = "mongodb+srv://user:pass@cluster0.pyabp0c.mongodb.net/test"  
 
-#Oficial suporte dmdfsolver.atos (FOR IA SOLVER [FREE]), api.anti-captcha.com, api.capsolver.com, api.capmonster.cloud  
+#Oficial support dmdfsolver.atos (IA SOLVER [FREE]), api.anti-captcha.com, api.capsolver.com, api.capmonster.cloud  
 
 KeyCaptchaForDM = "CAI-xxxx"  
 DomainCaptchaForDM = "api.capsolver.com"  
@@ -99,7 +99,7 @@ DomainCaptchaForJoin = "api.anti-captcha.com"
 4. Start Tool
 5. [VIDEO TUTORIAL](https://t.me/ATOS_DMDF/5)
 
-![DMDF-MAIN](https://media.discordapp.net/attachments/1050232164383461446/1084076506193596457/image.png?width=843&height=474)
+![DMDF-MAIN](https://media.discordapp.net/attachments/1083986985196191758/1104237114700341328/photo_2023-05-05_15-51-03.jpg?width=1193&height=555)
 
 ## Contact
 - https://t.me/ATOS_DMDF
