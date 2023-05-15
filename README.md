@@ -1,89 +1,78 @@
+# DMDF Bot
 ![DMDF](https://user-images.githubusercontent.com/127346906/224520680-ae2c6ff6-c244-4f48-bc14-98df87d075ca.jpg)
 
+DMDF Bot is an advanced Discord message automation tool, developed for educational purposes. Our bot allows you to send bulk messages, optimize response time, and even solve captchas in an automated way. This is especially beneficial for users who need an effective solution for managing multiple servers.
 
-> For educational purposes only
+> **Note:** This software is made available for educational purposes only.
 
+## Features
 
-# Buy / Download
-- **Buy** Licesence https://discordsociety.sellix.io/product/640d2ced7cd1e (after purchase put your license in "license")
-- **Download** https://t.me/ATOS_DMDF
+1. **Threads per server**: Configure the number of threads per server, optimizing token distribution.
+2. **Captcha Solver**: Our bot is equipped with artificial intelligence capable of solving captchas, saving you time and money.
+3. **Support for multiple Captcha services**: DMDF officially supports api.anti-captcha.com, api.capsolver.com, and api.capmonster.cloud.
+4. **MongoDB Support**: DMDF Bot supports MongoDB for efficient data management.
 
-
-## Threads
-
-- The threads are per server
-- 10 threads = 10 tokens per server
-- No use multi-thread for join
-
-- I recommend 10, if you are using tokens from different dates you can use more without problems, a maximum of 10 tokens from the same day 
-- Server Flag = A much lower DM average
-
-
-## **Captcha solver**
-- Qill only be released in the **paid version**
-- **don't pay captcha to send messages**
-
-
-## Captcha Services
-
-- Services with official suporte 
-- https://api.anti-captcha.com
-- https://api.capsolver.com
-- https://api.capmonster.cloud 
-
-
-## MongoDB
-
-- https://account.mongodb.com/account/login (online db)
-- https://www.mongodb.com/try/download/community (download local host)
-
-- `mongodb://localhost:27017` for localhost (Recommended)
-- `mongodb+srv://user:password@cluster0.pyabp0c.mongodb.net/test` for online
-
+## Purchase / Download
+- **Purchase License:** [License Link](https://discordsociety.sellix.io/product/640d2ced7cd1e)
+- **Download:** [Download Link](https://t.me/ATOS_DMDF)
 
 ## Operating Mode
 
--  Start x Threads per server
--  Join tokens in server 
--  Start mass dm
--  Repeats the process for all servers under [Data/Servers]
+DMDF operates by following these steps:
 
+1. Starts 'x' threads per server
+2. Joins tokens in the server 
+3. Starts mass messaging
+4. Repeats the process for all servers listed under [Data/Servers]
 
-## Config
+## Configuration
 
-- `KeyCaptcha` The captcha service key (Leave empty to disable)
--  `DomainCaptcha` Url of the captcha service api located in 
-- `Proxy` type://user:pass@ip:port or type://user:pass:ip:port
--  `DelayOnStart` Delay for binding tokens (per server)
--  `DelayOnMessage` Sleep every 1 message (I recommend 85)
--  `SleepRatelimit` Sleeps every 10 messages x seconds
--  `SleepAfterXDM` execute DelayOnRatelimit after try send x dm
+To configure the DMDF Bot, you will need to adjust the following parameters in the 'config.toml' file:
 
-##### EXAMPLE
-
-```toml
 JoinTokens = true
-TryBypassCaptcha = false  
+TryBypassCaptcha = false
 
-Threads = 10    
-DelayOnStart = 75  
-SleepAfterXDM = 9  
-DelayOnMessage = 70  
-DelayOnRatelimit = 600  
-MaxDMOpensPerToken = 600  
+Threads = 10
+DelayOnStart = 75
+SleepAfterXDM = 9
+DelayOnMessage = 70
+DelayOnRatelimit = 600
+MaxDMOpensPerToken = 600
 
-MongoURL = "mongodb+srv://user:pass@cluster0.pyabp0c.mongodb.net/test"  
+MongoURL = "mongodb+srv://user:pass@cluster0.pyabp0c.mongodb.net/test"
 
-#Oficial support dmdfsolver.atos (IA SOLVER [FREE]), api.anti-captcha.com, api.capsolver.com, api.capmonster.cloud  
+KeyCaptchaForDM = "CAI-xxxx"
+DomainCaptchaForDM = "api.capsolver.com"
 
-KeyCaptchaForDM = "CAI-xxxx"  
-DomainCaptchaForDM = "api.capsolver.com"  
-  
-KeyCaptchaForJoin = "xxxxx"  
+KeyCaptchaForJoin = "xxxxx"
 DomainCaptchaForJoin = "api.anti-captcha.com"
-```
 
-## Message features
+
+## Tutorial
+
+For a detailed tutorial on how to configure and use the DMDF Bot, visit our [Video Tutorial](https://t.me/ATOS_DMDF/5).
+
+## Contact
+
+For support and more information, you can contact us through the following channels:
+
+- Telegram: [ATOS_DMDF](https://t.me/ATOS_DMDF)
+- Discord: `icaro#0001`
+
+## Terms of Use
+
+By acquiring the DMDF Bot license, you agree to the following terms:
+
+1. Do not pass on your license to third parties.
+2. Do not distribute the program to third parties.
+3. Do not use the program in bad faith.
+4. Violation of these terms can and will result in the loss of your license.
+
+Failure to comply with these terms may result in the termination of your license without notice or refund.
+
+## Message Features
+
+In your messages, you can use the following features:
 
 - `{user}` mention user 
 - `{username}` username
