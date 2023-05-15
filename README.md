@@ -9,7 +9,6 @@ DMDF Bot is an advanced Discord message automation tool, developed for education
 
 1. **Threads per server**: Configure the number of threads per server, optimizing token distribution.
 2. **Captcha Solver**: Our bot is equipped with artificial intelligence capable of solving captchas, saving you time and money.
-3. **Support for multiple Captcha services**: DMDF officially supports api.anti-captcha.com, api.capsolver.com, and api.capmonster.cloud.
 4. **MongoDB Support**: DMDF Bot supports MongoDB for efficient data management.
 
 ## Purchase / Download
