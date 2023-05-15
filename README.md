@@ -95,7 +95,7 @@ In your messages, you can use the following features:
 ![DMDF-MAIN](https://media.discordapp.net/attachments/1083986985196191758/1104237114700341328/photo_2023-05-05_15-51-03.jpg?width=1193&height=555)
 
 ## Contact
-- [telegram](https://t.me/ATOS_DMDF)
+- [Telegram channel](https://t.me/ATOS_DMDF)
 - `icaro#0001`
 
 ## Terms
