@@ -5,15 +5,15 @@ DMDF Bot is an advanced Discord message automation tool, developed for education
 
 > **Note:** This software is made available for educational purposes only.
 
+## Purchase / Download
+- **Purchase License:** [License Link](https://discordsociety.sellix.io/product/640d2ced7cd1e)
+- **Download:** [Download Link](https://t.me/ATOS_DMDF)
+
 ## Features
 
 1. **Threads per server**: Configure the number of threads per server, optimizing token distribution.
 2. **Captcha Solver**: Our bot is equipped with artificial intelligence capable of solving captchas, saving you time and money.
 4. **MongoDB Support**: DMDF Bot supports MongoDB for efficient data management.
-
-## Purchase / Download
-- **Purchase License:** [License Link](https://discordsociety.sellix.io/product/640d2ced7cd1e)
-- **Download:** [Download Link](https://t.me/ATOS_DMDF)
 
 ## How DMDF Bot Works
 
