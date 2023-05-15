@@ -62,18 +62,6 @@ KeyCaptchaForJoin = "xxxxx"
 DomainCaptchaForJoin = "api.anti-captcha.com"
 ```
 
-
-## Tutorial
-
-For a detailed tutorial on how to configure and use the DMDF Bot, visit our [tutorial](https://t.me/ATOS_DMDF/5).
-
-## Contact
-
-For support and more information, you can contact us through the following channels:
-
-- Telegram: [ATOS_DMDF](https://t.me/ATOS_DMDF)
-- Discord: `icaro#0001`
-
 ## Terms of Use
 
 By acquiring the DMDF Bot license, you agree to the following terms:
@@ -102,6 +90,7 @@ In your messages, you can use the following features:
 3. Put tokens in data/tokens.txt
 4. Start Tool
 5. [tutorial](https://t.me/ATOS_DMDF/5)
+6. For a detailed tutorial on how to configure and use the DMDF Bot, visit our [tutorial](https://t.me/ATOS_DMDF/5).
 
 ![DMDF-MAIN](https://media.discordapp.net/attachments/1083986985196191758/1104237114700341328/photo_2023-05-05_15-51-03.jpg?width=1193&height=555)
 
