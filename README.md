@@ -29,23 +29,27 @@ DMDF operates by following these steps:
 
 To configure the DMDF Bot, you will need to adjust the following parameters in the 'config.toml' file:
 
+```toml
 JoinTokens = true
-TryBypassCaptcha = false
+TryBypassCaptcha = false  
 
-Threads = 10
-DelayOnStart = 75
-SleepAfterXDM = 9
-DelayOnMessage = 70
-DelayOnRatelimit = 600
-MaxDMOpensPerToken = 600
+Threads = 10    
+DelayOnStart = 75  
+SleepAfterXDM = 9  
+DelayOnMessage = 70  
+DelayOnRatelimit = 600  
+MaxDMOpensPerToken = 600  
 
-MongoURL = "mongodb+srv://user:pass@cluster0.pyabp0c.mongodb.net/test"
+MongoURL = "mongodb+srv://user:pass@cluster0.pyabp0c.mongodb.net/test"  
 
-KeyCaptchaForDM = "CAI-xxxx"
-DomainCaptchaForDM = "api.capsolver.com"
+#Oficial support dmdfsolver.atos (IA SOLVER [FREE]), api.anti-captcha.com, api.capsolver.com, api.capmonster.cloud  
 
-KeyCaptchaForJoin = "xxxxx"
+KeyCaptchaForDM = "CAI-xxxx"  
+DomainCaptchaForDM = "api.capsolver.com"  
+  
+KeyCaptchaForJoin = "xxxxx"  
 DomainCaptchaForJoin = "api.anti-captcha.com"
+```
 
 
 ## Tutorial
