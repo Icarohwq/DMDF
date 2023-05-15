@@ -16,14 +16,25 @@ DMDF Bot is an advanced Discord message automation tool, developed for education
 - **Purchase License:** [License Link](https://discordsociety.sellix.io/product/640d2ced7cd1e)
 - **Download:** [Download Link](https://t.me/ATOS_DMDF)
 
-## Operating Mode
+## How DMDF Bot Works
 
-DMDF operates by following these steps:
+DMDF Bot operates using a multi-thread system. Each Discord server gets its own set of threads. Each thread is responsible for managing a single 'token', which is a key that allows the bot to interact with the server. Threads are distributed as per the number set by the user.
 
-1. Starts 'x' threads per server
-2. Joins tokens in the server 
-3. Starts mass messaging
-4. Repeats the process for all servers listed under [Data/Servers]
+For instance, if the user sets that they want to use 10 threads and they have 10 servers, the bot will initiate 10 tokens on each server. This means that, in total, the bot will be managing 100 tokens simultaneously (10 on each of the 10 servers).
+
+This system is designed to avoid detection by anti-bot systems. Many Discord servers have detection mechanisms in place to identify when multiple tokens (especially tokens created at the same time) are interacting with the server simultaneously. By distributing the tokens across multiple threads and ensuring that the tokens initiated at each server are of different ages, DMDF Bot can effectively bypass this detection.
+
+Furthermore, DMDF Bot has an integrated AI-based captcha solver, which distinguishes it from other bots. This AI solver can automatically solve captchas, saving users from the cost of manual captcha-solving services.
+
+In terms of operation, DMDF Bot follows these steps:
+
+1. Starts 'x' number of threads per server as defined by the user.
+2. Joins tokens in the server.
+3. Starts mass messaging.
+4. Repeats the process for all servers listed under the [Data/Servers] directory.
+
+This process ensures efficient and seamless operation while minimizing the risk of detection by anti-bot systems.
+
 
 ## Configuration
 
@@ -54,7 +65,7 @@ DomainCaptchaForJoin = "api.anti-captcha.com"
 
 ## Tutorial
 
-For a detailed tutorial on how to configure and use the DMDF Bot, visit our [Video Tutorial](https://t.me/ATOS_DMDF/5).
+For a detailed tutorial on how to configure and use the DMDF Bot, visit our [tutorial](https://t.me/ATOS_DMDF/5).
 
 ## Contact
 
