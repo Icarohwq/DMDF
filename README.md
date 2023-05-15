@@ -101,12 +101,12 @@ In your messages, you can use the following features:
 2. Put targets (users ids) in data/Servers/{ServerInvite}.txt
 3. Put tokens in data/tokens.txt
 4. Start Tool
-5. [VIDEO TUTORIAL](https://t.me/ATOS_DMDF/5)
+5. [tutorial](https://t.me/ATOS_DMDF/5)
 
 ![DMDF-MAIN](https://media.discordapp.net/attachments/1083986985196191758/1104237114700341328/photo_2023-05-05_15-51-03.jpg?width=1193&height=555)
 
 ## Contact
-- https://t.me/ATOS_DMDF
+- [telegram](https://t.me/ATOS_DMDF)
 - `icaro#0001`
 
 ## Terms
