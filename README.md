@@ -91,7 +91,7 @@ In your messages, you can use the following features:
 5. [tutorial](https://t.me/ATOS_DMDF/5)
 6. For a detailed tutorial on how to configure and use the DMDF Bot, visit our [tutorial](https://t.me/ATOS_DMDF/5).
 
-![DMDF-MAIN](https://media.discordapp.net/attachments/1083986985196191758/1104237114700341328/photo_2023-05-05_15-51-03.jpg?width=1193&height=555)
+![photo_2023-05-15_07-04-07](https://github.com/Icarohwq/DMDF/assets/127346906/fd9b717a-efe7-4e4c-8699-2a0153f83716)
 
 ## Contact
 - [Telegram channel](https://t.me/ATOS_DMDF)
